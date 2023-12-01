@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Projeto1AppEstudo</string>
+    <string name="txt_titulo">Aplicativo Lista VIP Curso Android</string>
+    <string name="txt_hint_edit_primeiro_nome">Telefone desejado</string>
+    <string name="txt_hint_edit_name">Name</string>
+    <string name="text_hint_edit_primeiro_nome">Primeiro nome</string>
+    <string name="text_hint_edit_name">Name</string>
+    <string name="txt_button_salvar">Salvar</string>
+    <string name="txt_button_limpar">Limpar</string>
+    <string name="txt_button_finalizar">Finalizar</string>
+    <string name="txt_hint_edit_nome">Name</string>
+    <string name="txt_hint_edit_sobrenome">Sobrenome</string>
+    <string name="txt_hint_edit_nome_do_curso_desejado">Nome do curso desejado</string>
+    <string name="txt_hint_edit_name_nome">Name</string>
 </resources>
